@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### secret ###
-application-local.yml
+application-local.yaml
